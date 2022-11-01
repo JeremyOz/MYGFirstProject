@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Start.unity
+    guid: 57df1e417250bc247976c2c0dc088efe
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone1.unity
+    guid: a94cb8f134bf81349ad016c79b629e3d
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone2.unity
+    guid: 5436c67e9267f17458b31fcdc20cd20a
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone3.unity
+    guid: 4b4b0e246fc7dbb4295a38fd03241362
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone4.unity
+    guid: 5b0c2d9ddd151ba489db19a4fb634327
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone5.unity
+    guid: 960b12f881940d84983273421bebc695
+  - enabled: 1
+    path: Assets/Scenes/SceneMainMenu.unity
+    guid: d4b526331df0819419a7b1f7b15ab289
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
+    guid: 705f1f73151a73046842d4e4ec8f514d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Loading.unity
+    guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SceneAIntroductionPartA.unity
+    guid: 49894814e18f2d84e8f2bd6d24ddca68
+  - enabled: 1
+    path: Assets/Scenes/SceneAIntroductionPartB.unity
+    guid: 859fde20512935341bb5ccde7d3b21da
+  - enabled: 1
+    path: Assets/Scenes/SceneBGrotte.unity
+    guid: f19202dbcf862034b8f81e93e4670ea5
+  - enabled: 1
+    path: Assets/Scenes/SceneCJungle.unity
+    guid: 056d55111652a334580cc7d9275b4934
+  - enabled: 1
+    path: Assets/Scenes/SceneDRuine.unity
+    guid: e930567d3086a904f85b935a61964066
+  - enabled: 1
+    path: Assets/Scenes/SceneEAscenseurRuine.unity
+    guid: 732959c35a04b8943b3d269a6219ba59
+  - enabled: 1
+    path: Assets/Scenes/SceneFAntreMatriarche.unity
+    guid: b18aba3bd748dba489164d7882252a05
+  - enabled: 1
+    path: Assets/Scenes/SceneGOutro.unity
+    guid: 2a995a4a6b3c6b64c9b65150dd8a09fe
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
